@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "MyDB": "server =.\\ANNT; database = FStore_14_NguyenThiAn;uid=g3;pwd=123456;TrustServerCertificate=True;"
+  }
+}
